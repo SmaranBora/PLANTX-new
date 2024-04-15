@@ -1,1 +1,2 @@
-# PLANTX-new
+# PLANTX
+E-commerce website for plants
